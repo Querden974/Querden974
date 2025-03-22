@@ -1,7 +1,6 @@
 ## Welcome to my GitHub Profile 👋
 
-🌱 I’m currently learning Vue 3 and Three.js <br>
-🔭 I’m currently working on [BubbleTea-Shop](https://github.com/Querden974/BubbleTea-Shop)<br>
+🔭 I’m currently working on [AnimeFactory](https://github.com/Querden974/AnimeFactory)<br>
 
 ### :wrench: Langages & Frameworks :wrench:
 
