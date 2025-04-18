@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile 👋
 
-🔭 I’m currently working on [AnimeFactory](https://github.com/Querden974/AnimeFactory)<br>
+🔭 I’m currently working on [Java Practice](https://github.com/Querden974/Java-Practice)<br>
 
 ### :wrench: Langages & Frameworks :wrench:
 
