@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile 👋
 
-🔭 I’m currently working on [Java Practice](https://github.com/Querden974/Java-Practice)<br>
+🔭 I’m currently working on [Food Maestro](https://github.com/Querden974/FoodMaestro)<br>
 
 ### :wrench: Langages & Frameworks :wrench:
 
